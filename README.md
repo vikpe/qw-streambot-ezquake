@@ -46,9 +46,9 @@ There are several ways to download these files.
 
 [GA](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/armor_0.png), [YA](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/armor_1.png), [RA](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/armor_2.png) 
 
-<a href="https://raw.githubusercontent.com/vikpe/qw-streambot-ezquake/main/qw/textures/models/armor_0.png"><img src="https://raw.githubusercontent.com/vikpe/qw-streambot-ezquake/main/qw/textures/models/armor_0.png" height="64"></a> &nbsp; 
-<a href="https://raw.githubusercontent.com/vikpe/qw-streambot-ezquake/main/qw/textures/models/armor_1.png"><img src="https://raw.githubusercontent.com/vikpe/qw-streambot-ezquake/main/qw/textures/models/armor_1.png" height="64"></a> &nbsp; 
-<a href="https://raw.githubusercontent.com/vikpe/qw-streambot-ezquake/main/qw/textures/models/armor_2.png"><img src="https://raw.githubusercontent.com/vikpe/qw-streambot-ezquake/main/qw/textures/models/armor_2.png" height="64"></a> 
+<img src="https://raw.githubusercontent.com/vikpe/qw-streambot-ezquake/main/qw/textures/models/armor_0.png" height="64"> &nbsp; 
+<img src="https://raw.githubusercontent.com/vikpe/qw-streambot-ezquake/main/qw/textures/models/armor_1.png" height="64"> &nbsp; 
+<img src="https://raw.githubusercontent.com/vikpe/qw-streambot-ezquake/main/qw/textures/models/armor_2.png" height="64"> 
 
 
 ### Weapons, backpack, projectiles
@@ -63,17 +63,17 @@ There are several ways to download these files.
 [RL](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/g_rock2_0.png), [GL](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/g_rock_0.png), [LG](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/g_light_0.png), [SNG](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/g_nail2_0.png), [NG](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/g_nail_0.png), [SSG](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/g_shot_0.png), [backpack](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/backpack_0.png): 
 
 
-<a href="https://raw.githubusercontent.com/vikpe/qw-streambot-ezquake/main/qw/textures/models/g_rock2_0.png"><img src="https://raw.githubusercontent.com/vikpe/qw-streambot-ezquake/main/qw/textures/models/g_rock2_0.png" height="48"></a> &nbsp; 
-<a href="https://raw.githubusercontent.com/vikpe/qw-streambot-ezquake/main/qw/textures/models/g_rock_0.png"><img src="https://raw.githubusercontent.com/vikpe/qw-streambot-ezquake/main/qw/textures/models/g_rock_0.png" height="48"></a> &nbsp; 
-<a href="https://raw.githubusercontent.com/vikpe/qw-streambot-ezquake/main/qw/textures/models/g_nail2_0.png"><img src="https://raw.githubusercontent.com/vikpe/qw-streambot-ezquake/main/qw/textures/models/g_nail2_0.png" height="48"></a> &nbsp; 
-<a href="https://raw.githubusercontent.com/vikpe/qw-streambot-ezquake/main/qw/textures/models/g_nail_0.png"><img src="https://raw.githubusercontent.com/vikpe/qw-streambot-ezquake/main/qw/textures/models/g_nail_0.png" height="48"></a> &nbsp; 
-<a href="https://raw.githubusercontent.com/vikpe/qw-streambot-ezquake/main/qw/textures/models/g_shot_0.png"><img src="https://raw.githubusercontent.com/vikpe/qw-streambot-ezquake/main/qw/textures/models/g_shot_0.png" height="48"></a> &nbsp; 
-<a href="https://raw.githubusercontent.com/vikpe/qw-streambot-ezquake/main/qw/textures/models/backpack_0.png"><img src="https://raw.githubusercontent.com/vikpe/qw-streambot-ezquake/main/qw/textures/models/backpack_0.png" height="48"></a>
+<img src="https://raw.githubusercontent.com/vikpe/qw-streambot-ezquake/main/qw/textures/models/g_rock2_0.png" height="48"> &nbsp; 
+<img src="https://raw.githubusercontent.com/vikpe/qw-streambot-ezquake/main/qw/textures/models/g_rock_0.png" height="48"> &nbsp; 
+<img src="https://raw.githubusercontent.com/vikpe/qw-streambot-ezquake/main/qw/textures/models/g_nail2_0.png" height="48"> &nbsp; 
+<img src="https://raw.githubusercontent.com/vikpe/qw-streambot-ezquake/main/qw/textures/models/g_nail_0.png" height="48"> &nbsp; 
+<img src="https://raw.githubusercontent.com/vikpe/qw-streambot-ezquake/main/qw/textures/models/g_shot_0.png" height="48"> &nbsp; 
+<img src="https://raw.githubusercontent.com/vikpe/qw-streambot-ezquake/main/qw/textures/models/backpack_0.png" height="48">
 
 [missile](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/missile_0.png), [grenade](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/grenade_0.png):
 
-<a href="https://raw.githubusercontent.com/vikpe/qw-streambot-ezquake/main/qw/textures/models/missile_0.png"><img src="https://raw.githubusercontent.com/vikpe/qw-streambot-ezquake/main/qw/textures/models/missile_0.png" height="64"></a> &nbsp; 
-<a href="https://raw.githubusercontent.com/vikpe/qw-streambot-ezquake/main/qw/textures/models/grenade_0.png"><img src="https://raw.githubusercontent.com/vikpe/qw-streambot-ezquake/main/qw/textures/models/grenade_0.png" height="64"></a> 
+<img src="https://raw.githubusercontent.com/vikpe/qw-streambot-ezquake/main/qw/textures/models/missile_0.png" height="64"> &nbsp; 
+<img src="https://raw.githubusercontent.com/vikpe/qw-streambot-ezquake/main/qw/textures/models/grenade_0.png" height="64">
 
 
 ## Credits

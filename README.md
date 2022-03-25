@@ -30,7 +30,7 @@ There are several ways to download these files.
 <img src="https://raw.githubusercontent.com/vikpe/qw-streambot-ezquake/main/qw/textures/bmodels/rock1sid.png" height="64"> &nbsp; 
 <img src="https://raw.githubusercontent.com/vikpe/qw-streambot-ezquake/main/qw/textures/bmodels/rock0sid.png" height="64"> 
 
-* **Source**: [Colorized QRP models and bmodels](https://gfx.quakeworld.nu/details/372/colorized-qrp-models-and-bmodels/) from the [Quake Revitalization Project (QRP)](http://qrp.quakeone.com/downloads/).
+* **Source**: [Colorized QRP models and bmodels](https://gfx.quakeworld.nu/details/372/colorized-qrp-models-and-bmodels/).
 * **Changes**:
   * Removed animation on health packs and mega health.
   * Modified HUE / brightness on cells and rockets.
@@ -44,24 +44,29 @@ There are several ways to download these files.
 <img src="https://raw.githubusercontent.com/vikpe/qw-streambot-ezquake/main/qw/textures/models/armor_2.png" height="64">
 
 * **Files**: [GA](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/armor_0.png), [YA](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/armor_1.png), [RA](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/armor_2.png)
-* **Source**: [Armors - faithfull by PrimeviL](https://gfx.quakeworld.nu/details/44/armors-faithfull-/) 
+* **Source**: [Colorized QRP models and bmodels](https://gfx.quakeworld.nu/details/372/colorized-qrp-models-and-bmodels/)
 * **Changes**: Modified HUE / brightness for more saturated color.
 
 
-### Weapons, backpack, projectiles
+### Weapons
 > Located in: [`/qw/textures/models/`](https://github.com/vikpe/qw-streambot-ezquake/tree/main/qw/textures/models)
 
 ![weapons](.github/weapons.jpg)
 
-<img src="https://raw.githubusercontent.com/vikpe/qw-streambot-ezquake/main/qw/textures/models/missile_0.png" height="64"> &nbsp; 
-<img src="https://raw.githubusercontent.com/vikpe/qw-streambot-ezquake/main/qw/textures/models/grenade_0.png" height="64"> &nbsp; 
-<img src="https://raw.githubusercontent.com/vikpe/qw-streambot-ezquake/main/qw/textures/models/backpack_0.png" height="64">
-
-* **Files**: [SSG](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/g_shot_0.png), [NG](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/g_nail_0.png), [SNG](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/g_nail2_0.png), [GL](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/g_rock_0.png), [RL](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/g_rock2_0.png), [LG](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/g_light_0.png), [missile](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/missile_0.png), [grenade](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/grenade_0.png), [backpack](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/backpack_0.png)
+* **Files**: [SSG](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/g_shot_0.png), [NG](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/g_nail_0.png), [SNG](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/g_nail2_0.png), [GL](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/g_rock_0.png), [RL](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/g_rock2_0.png), [LG](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/g_light_0.png)
 * **Source**: Original Quake textures.
-* **Changes**: Modification (HUE -> Colorize).
-  * Yellow: `hue: 60, color: 100, lightness: 20`
-  * Cyan: `hue: 180, color: 100, lightness: 20`
+* **Changes**: HUE -> Colorize (`hue: 60, color: 100, lightness: 20`)
+
+
+### Projectiles
+> Located in: [`/qw/textures/models/`](https://github.com/vikpe/qw-streambot-ezquake/tree/main/qw/textures/models)
+
+<img src="https://raw.githubusercontent.com/vikpe/qw-streambot-ezquake/main/qw/textures/models/missile_0.png" height="64"> &nbsp; 
+<img src="https://raw.githubusercontent.com/vikpe/qw-streambot-ezquake/main/qw/textures/models/grenade_0.png" height="64">
+
+* **Files**: [missile](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/missile_0.png), [grenade](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/grenade_0.png)
+* **Source**: Original Quake textures.
+* **Changes**: HUE -> Colorize (`hue: 180, color: 100, lightness: 20`)
 
 
 ### Map textures

@@ -43,9 +43,9 @@ There are several ways to download these files.
 
 **Changes**: Modified HUE / brightness for more saturated color.
 
-<img src="https://raw.githubusercontent.com/vikpe/qw-streambot-ezquake/main/qw/textures/models/armor_0.png" height="64"> &nbsp; 
-<img src="https://raw.githubusercontent.com/vikpe/qw-streambot-ezquake/main/qw/textures/models/armor_1.png" height="64"> &nbsp; 
-<img src="https://raw.githubusercontent.com/vikpe/qw-streambot-ezquake/main/qw/textures/models/armor_2.png" height="64">
+[GA](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/armor_0.png), [YA](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/armor_1.png), [RA](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/armor_2.png),  
+
+![weapons](.github/armors.jpg)
 
 
 ### Weapons, backpack, projectiles

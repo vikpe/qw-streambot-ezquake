@@ -20,17 +20,16 @@ There are several ways to download these files.
 
 ## Textures
 
-### Ammo boxes, health boxes, megahealth
+### Health packs, mega health, ammo boxes
 > Located in [/qw/textures/bmodels/](https://github.com/vikpe/qw-streambot-ezquake/tree/main/qw/textures/bmodels)
 
 **Source**: [Colorized QRP models and bmodels](https://gfx.quakeworld.nu/details/372/colorized-qrp-models-and-bmodels/) from the [Quake Revitalization Project (QRP)](http://qrp.quakeone.com/downloads/).
 
-* Animations on health packs and mega removed.
+**Changes**
+* Removed animation on health packs and mega health.
+* Modified HUE / brightness on cells and rockets.
 
-<img src="https://raw.githubusercontent.com/vikpe/qw-streambot-ezquake/main/qw/textures/bmodels/med3_0.png" height="64"> &nbsp; <img src="https://raw.githubusercontent.com/vikpe/qw-streambot-ezquake/main/qw/textures/bmodels/+0_med25.png" height="64"> &nbsp; <img src="https://raw.githubusercontent.com/vikpe/qw-streambot-ezquake/main/qw/textures/bmodels/+0_med100.png" height="64"> 
-
-* Cells and rockets with modified HUE / brightness.
-
+<img src="https://raw.githubusercontent.com/vikpe/qw-streambot-ezquake/main/qw/textures/bmodels/med3_0.png" height="64"> &nbsp; <img src="https://raw.githubusercontent.com/vikpe/qw-streambot-ezquake/main/qw/textures/bmodels/+0_med25.png" height="64"> &nbsp; <img src="https://raw.githubusercontent.com/vikpe/qw-streambot-ezquake/main/qw/textures/bmodels/+0_med100.png" height="64"> &nbsp; 
 <img src="https://raw.githubusercontent.com/vikpe/qw-streambot-ezquake/main/qw/textures/bmodels/shot0sid.png" height="64"> &nbsp; 
 <img src="https://raw.githubusercontent.com/vikpe/qw-streambot-ezquake/main/qw/textures/bmodels/nail0sid.png" height="64"> &nbsp;
 <img src="https://raw.githubusercontent.com/vikpe/qw-streambot-ezquake/main/qw/textures/bmodels/batt1sid.png" height="64"> &nbsp; 
@@ -42,21 +41,19 @@ There are several ways to download these files.
 
 **Source**: [Armors - faithfull by PrimeviL](https://gfx.quakeworld.nu/details/44/armors-faithfull-/) 
 
-* Modified HUE / brightness.
-
-[GA](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/armor_0.png), [YA](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/armor_1.png), [RA](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/armor_2.png) 
+**Changes**: Modified HUE / brightness for more saturated color.
 
 <img src="https://raw.githubusercontent.com/vikpe/qw-streambot-ezquake/main/qw/textures/models/armor_0.png" height="64"> &nbsp; 
 <img src="https://raw.githubusercontent.com/vikpe/qw-streambot-ezquake/main/qw/textures/models/armor_1.png" height="64"> &nbsp; 
-<img src="https://raw.githubusercontent.com/vikpe/qw-streambot-ezquake/main/qw/textures/models/armor_2.png" height="64"> 
+<img src="https://raw.githubusercontent.com/vikpe/qw-streambot-ezquake/main/qw/textures/models/armor_2.png" height="64">
 
 
 ### Weapons, backpack, projectiles
 > Located in [/qw/textures/models/](https://github.com/vikpe/qw-streambot-ezquake/tree/main/qw/textures/models)
 
-**Source**: Original Quake textures
+**Source**: Original Quake textures.
 
-* Modification (HUE -> Colorize).
+**Changes**: Modification (HUE -> Colorize).
   * Yellow: `hue: 60, color: 100, lightness: 20`
   * Cyan: `hue: 180, color: 100, lightness: 20`
   
@@ -75,6 +72,13 @@ There are several ways to download these files.
 <img src="https://raw.githubusercontent.com/vikpe/qw-streambot-ezquake/main/qw/textures/models/missile_0.png" height="64"> &nbsp; 
 <img src="https://raw.githubusercontent.com/vikpe/qw-streambot-ezquake/main/qw/textures/models/grenade_0.png" height="64">
 
+
+### Map textures
+> Located in [/qw/textures](https://github.com/vikpe/qw-streambot-ezquake/tree/main/qw/textures/)
+
+**Source**: [Quake Revitalization Project (QRP)](http://qrp.quakeone.com/downloads/)
+
+**Changes**: JPEG conversion by [Milton](https://www.twitch.tv/Miltonizer) for faster loading time.
 
 ## Credits
 Thanks to everyone that have provided feedback on the stream (extra thanks to circle, milton, wimpeeh and andeh) and all authors of content uploaded to [QuakeWorld GFX](https://gfx.quakeworld.nu/).

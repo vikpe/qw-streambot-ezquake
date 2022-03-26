@@ -76,5 +76,13 @@ There are several ways to download these files.
 * **Changes**: JPEG conversion by [Milton](https://www.twitch.tv/Miltonizer) for faster loading time.
 
 
+## How-to
+
+### Convert multiple images at once using ImageMagick
+**Example**: Colorize all PNG images in `/source_dir` and save in `/target_dir`.
+```sh
+convert 'source_dir/*.png' -colorspace gray -fill yellow -tint 160 -colorize 40 -set filename:fn '%[basename]' 'target_dir/%[filename:fn].png
+```
+
 ## Credits
 Thanks to everyone that have provided feedback on the stream (extra thanks to circle, milton, wimpeeh and andeh) and all authors of content uploaded to [QuakeWorld GFX](https://gfx.quakeworld.nu/).

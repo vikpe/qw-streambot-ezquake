@@ -23,12 +23,12 @@ There are several ways to download these files.
 ### Health packs, mega health, ammo boxes
 > Located in: [`/qw/textures/bmodels/`](https://github.com/vikpe/qw-streambot-ezquake/tree/main/qw/textures/bmodels)
 
-<img src="https://raw.githubusercontent.com/vikpe/qw-streambot-ezquake/main/qw/textures/bmodels/med3_0.png" height="64"> &nbsp; <img src="https://raw.githubusercontent.com/vikpe/qw-streambot-ezquake/main/qw/textures/bmodels/+0_med25.png" height="64"> &nbsp; <img src="https://raw.githubusercontent.com/vikpe/qw-streambot-ezquake/main/qw/textures/bmodels/+0_med100.png" height="64"> &nbsp; 
-<img src="https://raw.githubusercontent.com/vikpe/qw-streambot-ezquake/main/qw/textures/bmodels/shot0sid.png" height="64"> &nbsp; 
-<img src="https://raw.githubusercontent.com/vikpe/qw-streambot-ezquake/main/qw/textures/bmodels/nail0sid.png" height="64"> &nbsp;
-<img src="https://raw.githubusercontent.com/vikpe/qw-streambot-ezquake/main/qw/textures/bmodels/batt1sid.png" height="64"> &nbsp; 
-<img src="https://raw.githubusercontent.com/vikpe/qw-streambot-ezquake/main/qw/textures/bmodels/rock1sid.png" height="64"> &nbsp; 
-<img src="https://raw.githubusercontent.com/vikpe/qw-streambot-ezquake/main/qw/textures/bmodels/rock0sid.png" height="64"> 
+<img src="./qw/textures/bmodels/med3_0.png" height="64"> &nbsp; <img src="./qw/textures/bmodels/+0_med25.png" height="64"> &nbsp; <img src="./qw/textures/bmodels/+0_med100.png" height="64"> &nbsp; 
+<img src="./qw/textures/bmodels/shot0sid.png" height="64"> &nbsp; 
+<img src="./qw/textures/bmodels/nail0sid.png" height="64"> &nbsp;
+<img src="./qw/textures/bmodels/batt1sid.png" height="64"> &nbsp; 
+<img src="./qw/textures/bmodels/rock1sid.png" height="64"> &nbsp; 
+<img src="./qw/textures/bmodels/rock0sid.png" height="64"> 
 
 * **Source**: [Colorized QRP models and bmodels](https://gfx.quakeworld.nu/details/372/colorized-qrp-models-and-bmodels/).
 * **Changes**:
@@ -39,9 +39,9 @@ There are several ways to download these files.
 ### Armors
 > Located in: [`/qw/textures/models/`](https://github.com/vikpe/qw-streambot-ezquake/tree/main/qw/textures/models)
 
-<img src="https://raw.githubusercontent.com/vikpe/qw-streambot-ezquake/main/qw/textures/models/armor_0.png" height="64"> &nbsp; 
-<img src="https://raw.githubusercontent.com/vikpe/qw-streambot-ezquake/main/qw/textures/models/armor_1.png" height="64"> &nbsp; 
-<img src="https://raw.githubusercontent.com/vikpe/qw-streambot-ezquake/main/qw/textures/models/armor_2.png" height="64">
+<img src="./qw/textures/models/armor_0.png" height="64"> &nbsp; 
+<img src="./qw/textures/models/armor_1.png" height="64"> &nbsp; 
+<img src="./qw/textures/models/armor_2.png" height="64">
 
 * **Files**: [GA](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/armor_0.png), [YA](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/armor_1.png), [RA](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/armor_2.png)
 * **Source**: [Colorized QRP models and bmodels](https://gfx.quakeworld.nu/details/372/colorized-qrp-models-and-bmodels/)
@@ -61,8 +61,8 @@ There are several ways to download these files.
 ### Projectiles
 > Located in: [`/qw/textures/models/`](https://github.com/vikpe/qw-streambot-ezquake/tree/main/qw/textures/models)
 
-<img src="https://raw.githubusercontent.com/vikpe/qw-streambot-ezquake/main/qw/textures/models/missile_0.png" height="64"> &nbsp; 
-<img src="https://raw.githubusercontent.com/vikpe/qw-streambot-ezquake/main/qw/textures/models/grenade_0.png" height="64">
+<img src="./qw/textures/models/missile_0.png" height="64"> &nbsp; 
+<img src="./qw/textures/models/grenade_0.png" height="64">
 
 * **Files**: [missile](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/missile_0.png), [grenade](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/grenade_0.png)
 * **Source**: Original Quake textures.

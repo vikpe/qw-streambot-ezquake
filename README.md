@@ -55,7 +55,7 @@ There are several ways to download these files.
 
 * **Files**: [SSG](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/g_shot_0.png), [NG](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/g_nail_0.png), [SNG](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/g_nail2_0.png), [GL](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/g_rock_0.png), [RL](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/g_rock2_0.png), [LG](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/g_light_0.png)
 * **Source**: Original Quake textures.
-* **Changes**: HUE -> Colorize (`hue: 60, color: 100, lightness: 20`)
+* **Changes**: Colorization using ImageMagick (`-colorspace gray -fill yellow -tint 160 -colorize 40`)
 
 
 ### Projectiles
@@ -66,7 +66,7 @@ There are several ways to download these files.
 
 * **Files**: [missile](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/missile_0.png), [grenade](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/grenade_0.png)
 * **Source**: Original Quake textures.
-* **Changes**: HUE -> Colorize (`hue: 180, color: 100, lightness: 20`)
+* **Changes**: Colorization using ImageMagick (`-colorspace gray -fill cyan -tint 160 -colorize 40`)
 
 
 ### Map textures

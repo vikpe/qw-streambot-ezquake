@@ -76,6 +76,15 @@ There are several ways to download these files.
 * **Changes**: JPEG conversion by [Milton](https://www.twitch.tv/Miltonizer) for faster loading time.
 
 
+## Charset
+> Located in: [`/qw/textures/charsets/povo5f_xtm.png`](https://github.com/vikpe/qw-streambot-ezquake/tree/main/qw/textures/charsets/povo5f_xtm.png)
+
+* **Source**: [povo5f by floder](https://gfx.quakeworld.nu/details/454/povo5f-and-povo5f-cyr/)
+* **Changes**: Removed slashes in zeros, modified colored squares.
+
+<img src="./qw/textures/charsets/povo5f_xtm.png" height="256">
+
+
 ## How-to
 
 ### Convert multiple images at once using ImageMagick

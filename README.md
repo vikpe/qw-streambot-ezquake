@@ -81,7 +81,7 @@ There are several ways to download these files.
 
 <img src="./qw/skins/2_white.png" height="192">
 
-* **File**: [2_white.png](./qw/skins/2_white.png)
+* **File**: [baseskin](./qw/skins/2_white.png)
 * **Source**: [PrimeviL 24bit Skins](https://gfx.quakeworld.nu/details/3/primevil-24bit-skins/)
 
 **Skin settings**

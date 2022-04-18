@@ -68,6 +68,11 @@ There are several ways to download these files.
 * **Source**: Original Quake textures.
 * **Changes**: Colorization using ImageMagick (`-colorspace gray -fill cyan -tint 160 -colorize 40`)
 
+**lg/shaft beam, nails**
+```
+gl_custom_lg_color      "200 200 255"   // light blue
+gl_custom_spike_color   "255 0 255"     // pink
+```
 
 ### Map textures
 > Located in: [`/qw/textures/`](https://github.com/vikpe/qw-streambot-ezquake/tree/main/qw/textures/)

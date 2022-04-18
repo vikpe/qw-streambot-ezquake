@@ -76,6 +76,26 @@ There are several ways to download these files.
 * **Changes**: JPEG conversion by [Milton](https://www.twitch.tv/Miltonizer) for faster loading time.
 
 
+### Skins
+> Located in: [`/qw/skins/`](https://github.com/vikpe/qw-streambot-ezquake/tree/main/qw/skins/)
+
+<img src="./qw/skins/2_white.png" height="192">
+
+* **File**: [2_white.png](./qw/skins/2_white.png)
+* **Source**: [PrimeviL 24bit Skins](https://gfx.quakeworld.nu/details/3/primevil-24bit-skins/)
+
+**Skin settings**
+
+Shared baseskin with green color for teammates and red for enemies.
+
+```
+baseskin          "2_white"
+r_skincolormode   "5"
+r_enemyskincolor  "255 0 128"
+r_teamskincolor   "0 160 0"
+```
+
+
 ## Charset
 > Located in: [`/qw/textures/charsets/`](https://github.com/vikpe/qw-streambot-ezquake/tree/main/qw/textures/charsets/)
 

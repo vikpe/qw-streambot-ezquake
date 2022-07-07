@@ -79,8 +79,7 @@ Source**: [Colorized QRP models and bmodels](https://gfx.quakeworld.nu/details/3
 
 ![weapons](.github/weapons.jpg)
 
-* **
-Files**: [SSG (g_shot_0.png)](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/g_shot_0.png)
+* **Files**: [SSG (g_shot_0.png)](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/g_shot_0.png)
 , [NG (g_nail_0.png)](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/g_nail_0.png)
 , [SNG (g_nail2_0.png)](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/g_nail2_0.png)
 , [GL (g_rock_0.png)](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/g_rock_0.png)

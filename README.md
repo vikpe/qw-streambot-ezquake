@@ -53,8 +53,7 @@ Source**: [Colorized QRP models and bmodels](https://gfx.quakeworld.nu/details/3
   , [YA (armor_1.png)](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/armor_1.png)
   , [RA (armor_2.png)](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/armor_2.png)
 
-* **
-Source**: [Colorized QRP models and bmodels](https://gfx.quakeworld.nu/details/372/colorized-qrp-models-and-bmodels/)
+* **Source**: [Colorized QRP models and bmodels](https://gfx.quakeworld.nu/details/372/colorized-qrp-models-and-bmodels/)
 
 * **Changes**: Modified HUE / brightness for more saturated color.
 

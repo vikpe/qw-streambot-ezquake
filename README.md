@@ -49,12 +49,8 @@ Source**: [Colorized QRP models and bmodels](https://gfx.quakeworld.nu/details/3
 <img src="./qw/textures/models/armor_1.png" height="64"> &nbsp; 
 <img src="./qw/textures/models/armor_2.png" height="64">
 
-* **Files**: [GA (armor_0.png)](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/armor_0.png)
-  , [YA (armor_1.png)](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/armor_1.png)
-  , [RA (armor_2.png)](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/armor_2.png)
-
+* **Files**: [GA (armor_0.png)](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/armor_0.png), [YA (armor_1.png)](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/armor_1.png), [RA (armor_2.png)](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/armor_2.png)
 * **Source**: [Colorized QRP models and bmodels](https://gfx.quakeworld.nu/details/372/colorized-qrp-models-and-bmodels/)
-
 * **Changes**: Modified HUE / brightness for more saturated color.
 
 ### Faces
@@ -79,13 +75,7 @@ Source**: [Colorized QRP models and bmodels](https://gfx.quakeworld.nu/details/3
 
 ![weapons](.github/weapons.jpg)
 
-* **Files**: [SSG (g_shot_0.png)](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/g_shot_0.png)
-, [NG (g_nail_0.png)](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/g_nail_0.png)
-, [SNG (g_nail2_0.png)](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/g_nail2_0.png)
-, [GL (g_rock_0.png)](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/g_rock_0.png)
-, [RL (g_rock2_0.png)](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/g_rock2_0.png)
-, [LG (g_light_0.png)](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/g_light_0.png)
-
+* **Files**: [SSG (g_shot_0.png)](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/g_shot_0.png), [NG (g_nail_0.png)](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/g_nail_0.png), [SNG (g_nail2_0.png)](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/g_nail2_0.png), [GL (g_rock_0.png)](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/g_rock_0.png), [RL (g_rock2_0.png)](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/g_rock2_0.png), [LG (g_light_0.png)](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/g_light_0.png)
 * **Source**: Original Quake textures.
 * **Changes**: Colorization using ImageMagick (`-colorspace gray -fill yellow -tint 160 -colorize 40`)
 
@@ -96,8 +86,7 @@ Source**: [Colorized QRP models and bmodels](https://gfx.quakeworld.nu/details/3
 <img src="./qw/textures/models/missile_0.png" height="64"> &nbsp; 
 <img src="./qw/textures/models/grenade_0.png" height="64">
 
-* **Files**: [missile_0.png](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/missile_0.png)
-  , [grenade_0.png](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/grenade_0.png)
+* **Files**: [missile_0.png](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/missile_0.png), [grenade_0.png](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/grenade_0.png)
 * **Source**: Original Quake textures.
 * **Changes**: Colorization using ImageMagick (`-colorspace gray -fill cyan -tint 160 -colorize 40`)
 

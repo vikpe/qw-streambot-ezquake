@@ -2,7 +2,7 @@
 
 > https://www.twitch.tv/vikpe
 
-The setup is optmized for **ezQuake 3.6-dev** on a 27" monitor at 2560x1440 resolution.
+The setup is optimized for **ezQuake 3.6-dev** on a 27" monitor at 2560x1440 resolution.
 
 ## How to download
 

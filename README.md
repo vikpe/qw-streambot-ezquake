@@ -126,6 +126,14 @@ r_enemyskincolor  "255 0 128"
 r_teamskincolor   "0 160 0"
 ```
 
+## Crosshair
+![image](https://user-images.githubusercontent.com/1616817/181937298-ba15b855-6f98-4b54-b97a-7c112a01b887.png)
+```
+crosshaircolor     "255 255 255"
+crosshairsize      "0.8"
+r_smoothcrosshair  "0"
+```
+
 ## Charset
 
 > Located in: [`/qw/textures/charsets/`](https://github.com/vikpe/qw-streambot-ezquake/tree/main/qw/textures/charsets/)

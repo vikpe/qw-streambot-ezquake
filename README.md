@@ -1,6 +1,6 @@
 # Streambot ezQuake setup
 
-> https://www.twitch.tv/vikpe
+> https://www.twitch.tv/QuakeWorld
 
 The setup is optimized for **ezQuake 3.6-dev** on a 27" monitor at 2560x1440 resolution.
 

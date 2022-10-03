@@ -108,16 +108,16 @@ gl_custom_spike_color   "255 0 255"     // pink
 
 > Located in: [`/qw/skins/`](https://github.com/vikpe/qw-streambot-ezquake/tree/main/qw/skins/)
 
-|base|enemy|team|
-|---|---|---|
-|<img src="./qw/skins/2_white.png" height="192">|![](https://user-images.githubusercontent.com/1616817/181941260-08f85e32-1f98-48a6-8045-039723aaa48c.png)|![](https://user-images.githubusercontent.com/1616817/181941330-0d9fb09d-0f42-481a-97fc-ec4d0e9a55ab.png)|
+| base                                            | enemy                                                          | team                                             |
+|-------------------------------------------------|----------------------------------------------------------------|--------------------------------------------------|
+| <img src="./qw/skins/2_white.png" height="192"> | <img src="./.github/skin_enemy.jpg" height="192">              | <img src="./.github/skin_team.jpg" height="192"> |
 
 * **File**: [2_white.png](./qw/skins/2_white.png)
 * **Source**: [PrimeviL 24bit Skins](https://gfx.quakeworld.nu/details/3/primevil-24bit-skins/)
 
 **Skin settings**
 
-Shared baseskin with green color for teammates and red for enemies.
+Shared base skin with yellow for enemies and light blue for teammates.
 
 ```
 baseskin          "2_white"

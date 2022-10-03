@@ -45,9 +45,9 @@ Source**: [Colorized QRP models and bmodels](https://gfx.quakeworld.nu/details/3
 
 > Located in: [`/qw/textures/models/`](https://github.com/vikpe/qw-streambot-ezquake/tree/main/qw/textures/models)
 
-<img src="./qw/textures/models/armor_0.png" height="64"> &nbsp; 
-<img src="./qw/textures/models/armor_1.png" height="64"> &nbsp; 
-<img src="./qw/textures/models/armor_2.png" height="64">
+<img src="./qw/textures/models/armor_0.jpg" height="64"> &nbsp; 
+<img src="./qw/textures/models/armor_1.jpg" height="64"> &nbsp; 
+<img src="./qw/textures/models/armor_2.jpg" height="64">
 
 * **Files**: [GA (armor_0.png)](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/armor_0.png), [YA (armor_1.png)](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/armor_1.png), [RA (armor_2.png)](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/armor_2.png)
 * **Source**: [Colorized QRP models and bmodels](https://gfx.quakeworld.nu/details/372/colorized-qrp-models-and-bmodels/)

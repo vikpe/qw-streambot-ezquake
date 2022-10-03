@@ -124,8 +124,8 @@ baseskin          "2_white"
 enemyskin         "2_white"
 teamskin          "2_white"
 r_skincolormode   "5"
-r_enemyskincolor  "255 0 128"
-r_teamskincolor   "0 160 0"
+r_enemyskincolor  "255 255 0"
+r_teamskincolor   "0 160 255"
 ```
 
 ## Crosshair

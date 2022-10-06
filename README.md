@@ -34,8 +34,7 @@ There are several ways to download these files.
 <img src="./qw/textures/bmodels/rock1sid.png" height="64"> &nbsp; 
 <img src="./qw/textures/bmodels/rock0sid.png" height="64"> 
 
-* **
-Source**: [Colorized QRP models and bmodels](https://gfx.quakeworld.nu/details/372/colorized-qrp-models-and-bmodels/).
+* **Source**: [Colorized QRP models and bmodels](https://gfx.quakeworld.nu/details/372/colorized-qrp-models-and-bmodels/).
 
 * **Changes**:
     * Removed animation on health packs and mega health.

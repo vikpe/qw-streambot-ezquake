@@ -128,14 +128,17 @@ r_teamskincolor   "0 160 255"
 ```
 
 ## Crosshair
-> Located under `//Crosshair Settings` in [config](https://github.com/vikpe/qw-streambot-ezquake/blob/main/ezquake/configs/streambot.cfg#L465).
-
-![image](https://user-images.githubusercontent.com/1616817/181937298-ba15b855-6f98-4b54-b97a-7c112a01b887.png)
+> Config located under `//Crosshair Settings` in [config](https://github.com/vikpe/qw-streambot-ezquake/blob/main/ezquake/configs/streambot.cfg#L465)
 ```
 crosshaircolor     "255 255 255"
-crosshairsize      "0.8"
+crosshairimage     "xtm01"
+crosshairsize      "1.4"
 r_smoothcrosshair  "0"
 ```
+
+> Crosshair image located at [qw/crosshairs/xtm01.png](https://github.com/vikpe/qw-streambot-ezquake/tree/main/qw/crosshairs/xtm01.png)
+
+![](./qw/crosshairs/xtm01.png)
 
 ## Charset
 

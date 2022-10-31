@@ -82,18 +82,20 @@ There are several ways to download these files.
 
 > Located in: [`/qw/textures/models/`](https://github.com/vikpe/qw-streambot-ezquake/tree/main/qw/textures/models)
 
+**missile**
+
 <img src="./qw/textures/models/missile_0.png" height="64"> &nbsp; 
-<img src="./qw/textures/models/grenade_0.png" height="64">
 
-* **Files**: [missile_0.png](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/missile_0.png), [grenade_0.png](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/grenade_0.png)
+* **File**: [missile_0.png](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/missile_0.png)
 * **Source**: Original Quake textures.
-* **Changes**: Colorization using ImageMagick (`-colorspace gray -fill cyan -tint 160 -colorize 40`)
+* **Changes**: Colorization using ImageMagick (`-colorspace gray -fill magenta -tint 160 -colorize 50`)
 
-**lg/shaft beam, nails**
+**nails, grenades, lg/shaft beam**
 
 ```
-gl_custom_lg_color      "200 200 255"   // light blue
-gl_custom_spike_color   "255 0 255"     // pink
+gl_custom_spike_color    "255 0 255"   // pink
+gl_custom_grenade_color  "255 0 255"   // pink
+gl_custom_lg_color       "200 200 255" // light blue
 ```
 
 ### Map textures

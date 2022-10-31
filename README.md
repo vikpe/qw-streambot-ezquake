@@ -48,7 +48,9 @@ There are several ways to download these files.
 <img src="./qw/textures/models/armor_1.jpg" height="64"> &nbsp; 
 <img src="./qw/textures/models/armor_2.jpg" height="64">
 
-* **Files**: [GA (armor_0.png)](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/armor_0.jpg), [YA (armor_1.jpg)](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/armor_1.jpg), [RA (armor_2.png)](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/armor_2.png)
+* **Files**: [GA (armor_0.png)](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/armor_0.jpg)
+  , [YA (armor_1.jpg)](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/armor_1.jpg)
+  , [RA (armor_2.png)](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/armor_2.png)
 * **Source**: [Colorized QRP models and bmodels](https://gfx.quakeworld.nu/details/372/colorized-qrp-models-and-bmodels/)
 * **Changes**: Modified HUE / brightness for more saturated color.
 
@@ -64,7 +66,6 @@ There are several ways to download these files.
 | Face 4      | <img src="./qw/textures/wad/face4.png" height="64">       | [face_4.png](./qw/textures/wad/face4.png)            | Face 4 (pain) | <img src="./qw/textures/wad/face_p4.png" height="64"> | [face_p4.png](./qw/textures/wad/face_p4.png) |
 | Face 5      | <img src="./qw/textures/wad/face5.png" height="64">       | [face_5.png](./qw/textures/wad/face5.png)            | Face 5 (pain) | <img src="./qw/textures/wad/face_p5.png" height="64"> | [face_p5.png](./qw/textures/wad/face_p5.png) |
 
-
 | Name        | Image                                                     | Filename                                             |
 |-------------|-----------------------------------------------------------|------------------------------------------------------|
 | Quad        | <img src="./qw/textures/wad/face_quad.png" height="64">   | [face_quad.png](./qw/textures/wad/face_quad.png)     |
@@ -76,11 +77,20 @@ There are several ways to download these files.
 
 > Located in: [`/qw/textures/models/`](https://github.com/vikpe/qw-streambot-ezquake/tree/main/qw/textures/models)
 
-![weapons](.github/weapons.jpg)
 
-* **Files**: [SSG (g_shot_0.png)](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/g_shot_0.png), [NG (g_nail_0.png)](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/g_nail_0.png), [SNG (g_nail2_0.png)](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/g_nail2_0.png), [GL (g_rock_0.png)](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/g_rock_0.png), [RL (g_rock2_0.png)](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/g_rock2_0.png), [LG (g_light_0.png)](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/g_light_0.png)
+**Files**
+
+| Name  | Filename                                            | Image                                                      |
+|-------|-----------------------------------------------------|------------------------------------------------------------|
+| SSG   | [g_shot_0.png](./qw/textures/models/g_shot_0.png)   | <img src="./qw/textures/models/g_shot_0.png" height="64">  |
+| NG    | [g_nail_0.png](./qw/textures/models/g_nail_0.png)   | <img src="./qw/textures/models/g_nail_0.png" height="64">  |
+| SNG   | [g_nail2_0.png](./qw/textures/models/g_nail2_0.png) | <img src="./qw/textures/models/g_nail2_0.png" height="64"> |
+| GL    | [g_rock_0.png](./qw/textures/models/g_rock_0.png)   | <img src="./qw/textures/models/g_rock_0.png" height="64">  |
+| RL    | [g_rock2_0.png](./qw/textures/models/g_rock2_0.png) | <img src="./qw/textures/models/g_rock2_0.png" height="64"> |
+| LG    | [g_light_0.png](./qw/textures/models/g_light_0.png) | <img src="./qw/textures/models/g_light_0.png" height="64"> |
+
 * **Source**: Original Quake textures.
-* **Changes**: Colorization using ImageMagick (`-colorspace gray -fill magenta -tint 140 -colorize 50`)
+* **Changes**: Modified HUE / brightness for saturated color.
 
 ### Projectiles
 
@@ -128,7 +138,9 @@ r_fullbrightSkins  "0.8"
 ```
 
 ## Crosshair
+
 > Config located under `//Crosshair Settings` in [config](https://github.com/vikpe/qw-streambot-ezquake/blob/main/ezquake/configs/streambot.cfg#L465)
+
 ```
 crosshaircolor     "255 255 255"
 crosshairimage     "xtm01"

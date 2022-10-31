@@ -31,8 +31,8 @@ There are several ways to download these files.
 <img src="./qw/textures/bmodels/shot0sid.png" height="64"> &nbsp; 
 <img src="./qw/textures/bmodels/nail0sid.png" height="64"> &nbsp;
 <img src="./qw/textures/bmodels/batt1sid.png" height="64"> &nbsp; 
-<img src="./qw/textures/bmodels/rock1sid.png" height="64"> &nbsp; 
-<img src="./qw/textures/bmodels/rock0sid.png" height="64"> 
+<img src="./qw/textures/bmodels/rock1sid.png" height="48"> &nbsp; 
+<img src="./qw/textures/bmodels/rock0sid.png" height="48"> 
 
 * **Source**: [Colorized QRP models and bmodels](https://gfx.quakeworld.nu/details/372/colorized-qrp-models-and-bmodels/).
 

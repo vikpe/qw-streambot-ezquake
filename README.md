@@ -56,13 +56,17 @@ There are several ways to download these files.
 
 > Located in: [`/qw/textures/wad/`](https://github.com/vikpe/qw-streambot-ezquake/tree/main/qw/textures/wad)
 
+| Name        | Image                                                     | Filename                                             | Name          | Image                                                 | Filename                                     |
+|-------------|-----------------------------------------------------------|------------------------------------------------------|---------------|-------------------------------------------------------|----------------------------------------------|
+| Face 1      | <img src="./qw/textures/wad/face1.png" height="64">       | [face_1.png](./qw/textures/wad/face1.png)            | Face 1 (pain) | <img src="./qw/textures/wad/face_p1.png" height="64"> | [face_p1.png](./qw/textures/wad/face_p1.png) |
+| Face 2      | <img src="./qw/textures/wad/face2.png" height="64">       | [face_2.png](./qw/textures/wad/face2.png)            | Face 2 (pain) | <img src="./qw/textures/wad/face_p2.png" height="64"> | [face_p2.png](./qw/textures/wad/face_p2.png) |
+| Face 3      | <img src="./qw/textures/wad/face3.png" height="64">       | [face_3.png](./qw/textures/wad/face3.png)            | Face 3 (pain) | <img src="./qw/textures/wad/face_p3.png" height="64"> | [face_p3.png](./qw/textures/wad/face_p3.png) |
+| Face 4      | <img src="./qw/textures/wad/face4.png" height="64">       | [face_4.png](./qw/textures/wad/face4.png)            | Face 4 (pain) | <img src="./qw/textures/wad/face_p4.png" height="64"> | [face_p4.png](./qw/textures/wad/face_p4.png) |
+| Face 5      | <img src="./qw/textures/wad/face5.png" height="64">       | [face_5.png](./qw/textures/wad/face5.png)            | Face 5 (pain) | <img src="./qw/textures/wad/face_p5.png" height="64"> | [face_p5.png](./qw/textures/wad/face_p5.png) |
+
+
 | Name        | Image                                                     | Filename                                             |
 |-------------|-----------------------------------------------------------|------------------------------------------------------|
-| Face 1      | <img src="./qw/textures/wad/face1.png" height="64">       | [face_1.png](./qw/textures/wad/face1.png)            |
-| Face 2      | <img src="./qw/textures/wad/face2.png" height="64">       | [face_2.png](./qw/textures/wad/face2.png)            |
-| Face 3      | <img src="./qw/textures/wad/face3.png" height="64">       | [face_3.png](./qw/textures/wad/face3.png)            |
-| Face 4      | <img src="./qw/textures/wad/face4.png" height="64">       | [face_4.png](./qw/textures/wad/face4.png)            |
-| Face 5      | <img src="./qw/textures/wad/face5.png" height="64">       | [face_5.png](./qw/textures/wad/face5.png)            |
 | Quad        | <img src="./qw/textures/wad/face_quad.png" height="64">   | [face_quad.png](./qw/textures/wad/face_quad.png)     |
 | Ring        | <img src="./qw/textures/wad/face_invis.png" height="64">  | [face_invis.png](./qw/textures/wad/face_invis.png)   |
 | Pent        | <img src="./qw/textures/wad/face_invul2.png" height="64"> | [face_invul2.png](./qw/textures/wad/face_invul2.png) |

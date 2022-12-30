@@ -82,12 +82,11 @@ There are several ways to download these files.
 
 | Name  | Filename                                            | Image                                                      |
 |-------|-----------------------------------------------------|------------------------------------------------------------|
-| SSG   | [g_shot_0.png](./qw/textures/models/g_shot_0.png)   | <img src="./qw/textures/models/g_shot_0.png" height="64">  |
-| NG    | [g_nail_0.png](./qw/textures/models/g_nail_0.png)   | <img src="./qw/textures/models/g_nail_0.png" height="64">  |
-| SNG   | [g_nail2_0.png](./qw/textures/models/g_nail2_0.png) | <img src="./qw/textures/models/g_nail2_0.png" height="64"> |
-| GL    | [g_rock_0.png](./qw/textures/models/g_rock_0.png)   | <img src="./qw/textures/models/g_rock_0.png" height="64">  |
-| RL    | [g_rock2_0.png](./qw/textures/models/g_rock2_0.png) | <img src="./qw/textures/models/g_rock2_0.png" height="64"> |
-| LG    | [g_light_0.png](./qw/textures/models/g_light_0.png) | <img src="./qw/textures/models/g_light_0.png" height="64"> |
+| SSG   | [g_shot_0.png](./qw/textures/models/g_shot_0.jpg)   | <img src="./qw/textures/models/g_shot_0.jpg" height="64">  |
+| SNG   | [g_nail2_0.jpg](./qw/textures/models/g_nail2_0.jpg) | <img src="./qw/textures/models/g_nail2_0.jpg" height="64"> |
+| GL    | [g_rock_0.jpg](./qw/textures/models/g_rock_0.jpg)   | <img src="./qw/textures/models/g_rock_0.jpg" height="64">  |
+| RL    | [g_rock2_0.jpg](./qw/textures/models/g_rock2_0.jpg) | <img src="./qw/textures/models/g_rock2_0.jpg" height="64"> |
+| LG    | [g_light_0.jpg](./qw/textures/models/g_light_0.jpg) | <img src="./qw/textures/models/g_light_0.jpg" height="64"> |
 
 * **Source**: Original Quake textures.
 * **Changes**: Modified HUE / brightness for saturated color.

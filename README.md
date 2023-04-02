@@ -2,8 +2,7 @@
 
 > https://www.twitch.tv/QuakeWorld
 
-* The setup is optimized for **ezQuake 3.6-dev** on a 27" monitor at 2560x1440 resolution.
-* [ezQuake](https://ezquake.com/) is installed using the [nQuake package](https://nquake.com/) to get additional [modern graphics](https://github.com/QW-Group/ezquake-media/tree/master/game).
+The setup is optimized for **ezQuake 3.6-dev** on a 27" monitor at 2560x1440 resolution.
 
 ## How to download
 

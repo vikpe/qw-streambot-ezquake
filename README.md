@@ -27,12 +27,12 @@ There are several ways to download these files.
 
 > Located in: [`/qw/textures/bmodels/`](https://github.com/vikpe/qw-streambot-ezquake/tree/main/qw/textures/bmodels)
 
-<img src="./qw/textures/bmodels/med3_0.png" height="64"> &nbsp; <img src="./qw/textures/bmodels/+0_med25.png" height="64"> &nbsp; <img src="./qw/textures/bmodels/+0_med100.png" height="64"> &nbsp; 
-<img src="./qw/textures/bmodels/shot0sid.png" height="64"> &nbsp; 
-<img src="./qw/textures/bmodels/nail0sid.png" height="64"> &nbsp;
-<img src="./qw/textures/bmodels/batt1sid.png" height="64"> &nbsp; 
-<img src="./qw/textures/bmodels/rock1sid.png" height="48"> &nbsp; 
-<img src="./qw/textures/bmodels/rock0sid.png" height="48"> 
+<img src="./qw/textures/bmodels/med3_0.jpg" height="64"> &nbsp; <img src="./qw/textures/bmodels/+0_med25.jpg" height="64"> &nbsp; <img src="./qw/textures/bmodels/+0_med100.jpg" height="64"> &nbsp; 
+<img src="./qw/textures/bmodels/shot0sid.jpg" height="64"> &nbsp; 
+<img src="./qw/textures/bmodels/nail0sid.jpg" height="64"> &nbsp;
+<img src="./qw/textures/bmodels/batt1sid.jpg" height="64"> &nbsp; 
+<img src="./qw/textures/bmodels/rock1sid.jpg" height="48"> &nbsp; 
+<img src="./qw/textures/bmodels/rock0sid.jpg" height="48"> 
 
 * **Source**: [Colorized QRP models and bmodels](https://gfx.quakeworld.nu/details/372/colorized-qrp-models-and-bmodels/).
 

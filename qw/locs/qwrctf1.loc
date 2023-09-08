@@ -1,0 +1,198 @@
+  41 -11940  363 blue$.outer$.lg
+ -58 -10715  880 blue$.outer$.$loc_name_mh
+-1431 -11074  324 blue$.outer
+  -4 -8551  220 blue$.outer
+1875 -10436  -43 blue$.outer
+4995 -7423 -100 blue$.outer-hall(r)
+2845 -5376   20 blue$.outer-hall(r)
+2107 -3804  170 blue$.outer-hall(r)
+-2132 -4082 -115 blue$.outer-hall(l)
+-3306 -6069   61 blue$.outer-hall(l)
+-5149 -8630  -38 blue$.outer-hall(l)
+-2795 -10396 -137 blue$.outer
+-112 -1448 1985 blue$.inner-hall
+-3478 -417 1922 blue$.inner-hall
+-5099 -458 1955 blue$.inner-hall
+-6941 -507 1982 blue$.inner-base
+-8460 -555 1976 blue$.inner-base
+-10924 -611 1971 blue$.inner-base
+-12033 1676 1974 blue$.inner-base
+-9841 1931 1870 blue$.inner-base
+-6716 1917 1919 blue$.inner-base
+-6191 -2820 1874 blue$.inner-base
+-7585 -2975 1697 blue$.inner-base
+-9832 -2986 1803 blue$.inner-base
+-11480 -2852 2023 blue$.inner-base
+-13820 -1239 3157 blue$.inner-base$.$loc_name_ya/ammo
+-13898   29 3273 blue$.inner-base$.$loc_name_ya/ammo
+-12323  346 3114 blue$.inner-base
+-12365 -1298 3367 blue$.inner-base
+-12296 -168 3188 blue$.inner-base
+-12129 1938 4227 blue$.inner-base$.flag
+-11018 1831 4154 blue$.inner-base$.flag-plat
+-9892 1844 4227 blue$.inner-base$.flag-plat
+-8786 1788 4175 blue$.inner-base$.flag-plat
+-7745 1868 4126 blue$.inner-base$.flag-plat
+-6286 1915 4260 blue$.inner-base$.flag-plat
+-6228  645 3583 blue$.inner-base
+-7788  719 3196 blue$.inner-base
+-8015 1982 3200 blue$.inner-base
+-8987 1985 3247 blue$.inner-base
+-10397 1891 3170 blue$.inner-base
+-11692 1805 3100 blue$.inner-base
+-12216 1770 3072 blue$.inner-base
+-7327 1810 3059 blue$.inner-base
+-6385 1792 3100 blue$.inner-base
+-8550 3817 2075 blue$.sewer/alt-exit
+-8387 4199 -1373 blue$.sewer/alt-exit
+-8281 5192 -1468 blue$.sewer/alt-exit
+-6447 5254 -1498 blue$.sewer/alt-exit
+-4536 5174 -1242 blue$.sewer/alt-exit
+-2971 5156 -1461 blue$.sewer/alt-exit
+-2342 4940 -2853 blue$.sewer/alt-exit
+-2480 2701 -3076 blue$.sewer/alt-exit
+-2890 1243 -2979 mid$.water
+-1064 1353 -3068 mid$.water
+ 781 1437 -3089 mid$.water
+2672 1524 -3110 mid$.water
+3289  317 -3267 mid$.water
+2331  207 -2986 mid$.water
+ 978   72 -3051 mid$.water
+-150   12 -3655 mid$.water$.$loc_name_ra
+-1118   51 -3558 mid$.water
+-2114  125 -3462 mid$.water
+-3465  226 -3331 mid$.water
+-1907  123 -2319 mid$.water
+-977 -1318 -2522 mid$.water
+ 895 -1857 -2602 mid$.water
+2375 -1415 -2408 mid$.water
+3237 -1186 -2475 mid$.water
+3301 1066 -2530 mid$.water
+-3057 -1364 -3719 mid$.water
+-3298 -1695 -2733 mid$.rl-bunker
+-3194 -670 -2765 mid$.rl-bunker
+-2336 -1335 -2647 mid$.rl-bunker
+ -35   35 -1313 mid$.health-plat
+-3471 -1759 -1794 mid$.bunker$.above
+-2520 -860 -1729 mid$.bunker$.above
+-2094 2019 -281 mid
+ -99 2022 -448 mid
+1815 1840 -210 mid
+1898  419 -341 mid
+2235 -1792 -275 mid
+ -40 -2048 -405 mid$.gl
+-2027 -2035  -88 mid
+-1754  -66 -359 mid
+-1896 1753 -266 mid
+ -86 2002 -290 mid$.quad-door
+  57 3629 -315 quad (inside)
+2044 3663   -2 red$.outer-hall(l)
+1885 5699  -15 red$.outer-hall(l)
+4822 7747  -47 red$.outer-hall(l)
+4612 9905 -120 red$.outer-hall(l)
+-4398 10090    0 red$.outer-hall(r)
+-4985 7992  166 red$.outer-hall(r)
+-3425 6080  198 red$.outer-hall(r)
+-2023 3724   -1 red$.outer-hall(r)
+-2360 10419  196 red$.outer
+-1307 11511  173 red$.outer
+ 107 9586  166 red$.outer
+-132 7488  171 red$.outer
+1678 10976  154 red$.outer
+3895 10049  141 red$.outer
+-106 11702  289 red$.outer$.lg
+ -40 10905  773 red$.outer$.$loc_name_mh
+ 100 5954  659 red$.inner-hall
+ 206 3892 1847 red$.inner-hall
+ 186 1671 2257 red$.inner-hall
+1620  263 2153 red$.inner-hall
+3559  410 1983 red$.inner-hall
+5384  492 1824 red$.inner-hall
+5907  521 1861 red$.inner-base
+6232 2268 1862 red$.inner-base
+8051 2683 1903 red$.inner-base
+10268 2869 1923 red$.inner-base
+11920 2744 1937 red$.inner-base
+12071 1006 1900 red$.inner-base
+12119 -1040 1883 red$.inner-base
+12343 -2164 1968 red$.inner-base
+11045 -1972 1906 red$.inner-base
+9093 -1737 1919 red$.inner-base
+7434 -1529 1986 red$.inner-base
+6531 -1815 2030 red$.inner-base
+7969  578 2002 red$.inner-base
+10794  148 2105 red$.inner-base
+10444 2815 3769 red$.inner-base
+8793 2886 3686 red$.inner-base
+6410 2969 3467 red$.inner-base
+6256  490 3579 red$.inner-base
+7302 -2105 3286 red$.inner-base
+6101 -1945 3481 red$.inner-base
+9281 -1915 3285 red$.inner-base
+11376 -2008 3350 red$.inner-base
+12219 -348 3374 red$.inner-base
+12057  926 3368 red$.inner-base
+12139 2792 3368 red$.inner-base
+12583  786 3265 red$.inner-base
+12466   14 3219 red$.inner-base
+13378  -53 3219 red$.inner-base$.$loc_name_ya/ammo
+13451  943 3310 red$.inner-base$.$loc_name_ya/ammo
+10813 -1920 3361 red$.inner-base
+12110 -2001 4270 red$.inner-base$.flag
+11042 -1736 4183 red$.inner-base$.flag-plat
+10040 -1766 4225 red$.inner-base$.flag-plat
+8747 -1813 4297 red$.inner-base$.flag-plat
+9346 -1791 4263 red$.inner-base$.flag-plat
+8068 -1838 4335 red$.inner-base$.flag-plat
+6710 -2159 4209 red$.inner-base$.flag-plat
+8534 -3746 1743 red$.sewer/alt-exit
+8333 -3989 -119 red$.sewer/alt-exit
+8279 -4162 -1146 red$.sewer/alt-exit
+8510 -4681 -1481 red$.sewer/alt-exit
+7134 -5175 -1254 red$.sewer/alt-exit
+5602 -5161 -1166 red$.sewer/alt-exit
+4536 -5212 -1312 red$.sewer/alt-exit
+2535 -4978 -1389 red$.sewer/alt-exit
+2475 -4846 -2203 red$.sewer/alt-exit
+2550 -3630 -2950 red$.sewer/alt-exit
+2603 -2811 -2970 red$.sewer/alt-exit
+-2143 -10190 1591 blue$.base-tunnel
+-3614 -10178 1654 blue$.base-tunnel
+-5562 -10162 1737 blue$.base-tunnel
+-5562 -10162 1737 blue$.base-tunnel
+-8414 -10236 1497 blue$.base-tunnel
+-8430 -8030 1603 blue$.base-tunnel
+-8489 -5097 1768 blue$.base-tunnel
+-8527 -3827 1976 blue$.base-tunnel
+2197 -10187 1639 blue$.rl-tunnel/tele
+2795 -10208 1589 blue$.rl-tunnel/tele
+-6152 -3123  296 blue$.rl-bunker
+-6007 -1721   22 blue$.rl-bunker
+-4217 -1202  -32 blue$.rl-bunker
+-4317  341  -89 blue$.rl-bunker
+-4477 1453  -74 blue$.rl-bunker
+ 512 -9999 1589 blue$.outer
+ 823 -11626 1594 blue$.outer
+-692 -11596 1547 blue$.outer
+-972 -9689 1576 blue$.outer
+ 884 9809 1211 red$.outer
+ 877 11086 1172 red$.outer
+-850 11595 1074 red$.outer
+-516 9662 1318 red$.outer
+ 253 9493 1329 red$.outer
+2058 10252 1592 red$.base-tunnel
+3541 10227 1727 red$.base-tunnel
+5996 10373 1563 red$.base-tunnel
+8361 10260 1802 red$.base-tunnel
+8279 7624 1643 red$.base-tunnel
+8507 5443 1791 red$.base-tunnel
+8405 3862 1989 red$.base-tunnel
+-2227 10258 1576 red$.rl-tunnel/tele
+-2854 10184 1768 red$.rl-tunnel/tele
+6152 3782  248 red$.rl-bunker
+6152 2087  248 red$.rl-bunker
+4163 1385   20 red$.rl-bunker
+3971   64  -90 red$.rl-bunker
+4597 -1606  -62 red$.rl-bunker
+-1858 -1317 -3403 mid$.water
+ -62 -6204  460 blue$.inner-hall

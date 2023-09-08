@@ -1,0 +1,219 @@
+-5680 -5292 2791 ra$.low
+-9028   91  971 rl-ga$.spawn
+-7395   21  924 rl-ga$.spawn
+-5595 -159  885 rl-ga$.door
+-4076    4  688 rl-ga$.door
+-12051  -26 1432 rl-ga$.hp
+-12082 1786 1450 rl-ga$.hp
+-12488 -2248 1745 rl-ga$.hp
+-10884 -2350 1573 rl-ga
+-9767 -2457 1978 rl-ga
+-8030 -2518 2441 rl-ga$.high
+-7162 -1821 2427 rl-ga$.high
+-6947 -561 2434 rl-ga$.high
+-7033  546 2485 rl-ga$.high
+-7814 2145 2504 rl-ga$.high
+-9596 2667 2083 rl-ga
+-10926 2857 1720 rl-ga
+-10021   71 2232 rl-ga$.tele
+-6778 -2791 2735 rl-ga$.bridge
+-5550 -3951 2928 rl-ga$.bridge
+-4081 -5587 2813 rl-ga$.bridge
+-3140 -6328 2691 ra$.high
+-2755 -7185 2642 ra$.high
+-1420 -5225 2715 ra$.high
+ 157 -4226 2590 ra$.rox
+ 609 -5146 2583 ra$.high
+1868 -6004 2689 ra$.high
+2024 -7863 2670 ra$.high
+2335 -10280 2709 ra$.ssg
+2396 -11878 2698 ra$.ssg
+ 707 -11696 2599 ra$.ssg
+-320 -11991 2698 ra$.ssg
+-1852 -11060 2612 ra$.high
+-2957 -11598 2112 ra$.high
+-4214 -8813 1515 ra$.sng
+-2118 -8833 1395 ra$.sng
+-560 -8856  969 ra$.sng
+ 550 -8813  972 ra$.sng
+ 232 -7404  888 ra$.sng
+ 112 -5940  724 ra$.sng
+  69 -4257  494 ra$.door
+  22 -3674  389 ra$.door
+  25 -10421  897 ra$.spawn
+ 123 -11525  931 ra$.spawn
+1046 -12069  918 ra$.spawn
+1894 -12002 1008 ra$.spawn
+2548 -11827 1083 ra$.spawn
+-5874 -9351 1558 gl$.high
+-5699 -8517 1642 gl$.high
+-6267 -7799 1024 gl$.lift
+-6422 -7766  443 gl$.lift
+-7603 -9358 1503 gl$.high
+-9088 -9092 1628 gl$.ssg
+-10516 -7699 1688 gl$.ssg
+-10831 -5865 1589 gl$.ssg
+-9538 -4949 1496 gl$.high
+-8351 -4530 1271 gl$.rox
+-7110 -4266 1095 gl$.rox
+-6118 -3615  968 gl$.rox
+-5280 -3031  871 gl$.tele
+-7995 -5775  134 gl
+-7588 -6430  118 gl
+-6780 -7062  199 gl
+-5478 -6831  255 gl
+-4896 -5054  379 gl
+-3826 -4079  394 gl
+-2642 -2851  384 gl$.quad
+-11154 4889 1637 rl-ga$.outside
+-12425 4597 1628 rl-ga$.outside
+-9289 4922 1632 rl-ga$.outside
+-7543 4267 1765 rl-ga$.outside
+-6243 3400 2024 rl-ga$.outside
+-6979 2581 2556 rl-ga$.high
+-5707 3077 1196 rl-ga$.ya-low$.path
+-4642 2793 1013 rl-ga$.ya-low$.path
+-3693 3985 1281 rl-ga$.ya-low$.path
+-2974 5100  969 rl-ga$.ya-low$.path
+-2132 5985  942 ya-low
+-1425 6292  965 ya-low
+-1679 9269  889 ya-low
+1507 9004  990 ya-low
+2280 7858  962 ya-low
+2077 5981 1045 ya-low
+ 226 6357  995 ya-low$.spawn
+-466 6689  922 ya-low$.spawn
+-378 7624  963 ya-low$.spawn
+ 130 8479  956 ya-low$.spawn
+ 837 7328 1003 ya-low$.spawn
+   1 9619  918 ya-low$.lift
+-153 10287 1271 ya-low$.lift
+-141 10508 3696 lg$.lift
+ -82 9778 3455 lg$.lift
+ -48 9011 3383 lg
+-161 8079 3441 lg
+ -47 7233 3496 lg
+-134 6300 3424 lg
+-127 5198 3303 lg
+   7 4240 3267 lg$.quad
+  24 3979 3708 lg$.quad
+ -42 4911  701 ya-low$.door
+ -42 12916  848 ya-low$.sng
+1167 12604 1243 ya-low$.sng
+-1383 12337  982 ya-low$.sng
+ -86 12400  702 ya-low$.sng
+-12563 4643 1455 rl-ga$.mega
+-12483 4141 1414 rl-ga$.mega
+-12059 4249 1383 rl-ga$.mega
+-11944 4837 1329 rl-ga$.mega
+-12198 5377 1411 rl-ga$.mega
+8522   74 1432 rl-ya$.spawn
+9353   72 1254 rl-ya$.spawn
+7569   89 1306 rl-ya$.spawn
+6460   75 1322 rl-ya$.lift
+6232   69 2632 rl-ya$.lift
+5154   37 2693 rl-ya$.high
+4387  -31 2733 rl-ya$.high
+3053  -25 2779 rl-ya$.quad
+2688   17 2811 rl-ya$.quad
+4785 -1274 2717 rl-ya$.high
+5663 -2200 2737 rl-ya$.high
+4687 1274 2898 rl-ya$.high
+5599 2221 2867 rl-ya$.high
+8232  939 2814 rl-ya$.high
+8343 -937 2797 rl-ya$.high
+7082 -2506 1581 rl-ya
+8943 -2348 1673 rl-ya
+10472 -2369 1755 rl-ya
+11493 -3494 1625 rl-ya
+6641 2069 1609 rl-ya
+8256 2099 1570 rl-ya
+9787 2081 1595 rl-ya
+11618 2000 1639 rl-ya
+10706  103 1790 rl-ya$.tele
+11718 -854 1766 rl-ya$.tele
+11900 1010 1801 rl-ya$.tele
+12222  -51 1773 rl-ya$.tele
+9779  -48 4448 rl-ya$.ya
+8757  -22 4376 rl-ya$.ya
+8156  -35 4353 rl-ya$.ya
+6660 -836 4545 rl-ya$.ya
+7929 -777 4405 rl-ya$.ya
+9629 -756 4394 rl-ya$.ya
+9745  779 4450 rl-ya$.ya
+8473  802 4325 rl-ya$.ya
+6867  756 4474 rl-ya$.ya
+8395 3665 1461 rl-ya
+8320 4257 1481 statue
+9776 5380 1669 statue
+9281 7213 1689 statue$.ssg
+8465 8307 1791 statue$.ssg
+6538 7926 1862 statue$.ssg
+5529 7774 1724 statue$.ssg
+5070 6597 1517 statue$.door
+3971 6466 1434 statue$.door
+5035 5505 1492 statue$.door
+4604 4576 1571 statue$.tele
+2498 4419 1490 statue$.tele
+3294 3212 1574 statue$.tele
+4234 3436 1558 statue$.tele
+7535 6288 3059 statue
+   0 -3626 2591 ra$.quad
+ -18 -3116 2597 ra$.quad
+ -64 -2609 2628 ra$.quad
+-2972  -34 2879 quad$.high
+-2835  574 2842 quad$.high
+-2640 -627 2915 quad$.high
+  14   61 1027 quad$.spawn
+2145 -2078  309 quad$.low
+2173 -379  275 quad$.low
+2258 1470  453 quad$.low
+1135 3196  422 quad$.low
+-705 3345  402 quad$.low
+-2196 1991  436 quad$.low
+-2217  460  427 quad$.low
+-2167 -1788  499 quad$.low
+-988 -2206  377 quad$.low
+ 373 -2164  425 quad$.low
+1058 -1008  284 quad$.low
+1084   96  384 quad$.low
+ 299 1223  326 quad$.low
+-731 1076  330 quad$.low
+-904  252  326 quad$.low
+-802 -961  361 quad$.low
+-141   77 4986 quad$.hiiiiiigh
+8307 -8118 3045 mega-bridge
+7524 -7338 2950 mega-bridge
+6685 -6648 2965 mega-bridge
+9175 -9288 2940 mega-bridge
+9762 -9716 1657 mega-bridge$.tele
+10148 -10277 1569 mega-bridge$.tele
+9633 -11653 1578 mega-bridge$.tele
+8701 -11763 1555 mega-bridge$.tele
+11495 -10010 1599 mega-bridge$.tele
+11741 -8240 1566 mega-bridge$.tele
+11709 -6652 1645 mega-bridge$.low
+11505 -4792 1670 mega-bridge$.low
+8758 -4719 1306 mega-bridge$.low
+9074 -7002 1370 mega-bridge$.low
+7643 -8559 1470 mega-bridge$.low
+5947 -8611 1487 mega-bridge$.low
+4732 -9394 1308 mega-bridge$.low
+4873 -10664 1348 mega-bridge$.low
+4987 -12056 1289 mega-bridge$.low
+7052 -11835 1387 mega-bridge$.low
+7273 -10406 1341 mega-bridge$.low
+4951 -6971 1702 mega-bridge$.low
+5385 -6569 1967 mega-bridge$.low
+4825 -5614 2024 mega-bridge$.low
+4185 -4607 2060 mega-bridge$.low
+4098 -4061 2014 mega-bridge$.low
+4691 -4014 1916 mega-bridge$.low
+5757 -4717 1945 mega-bridge$.low
+7076 -5673 1911 mega-bridge$.low
+7597 -4771 1497 mega-bridge$.low
+8710 -5014 1530 mega-bridge$.low
+3368 -3240  283 quad$.lift
+3368 -3240 1248 quad$.lift
+3634 -3654 2363 mega-bridge$.low
+3653 -8852 2483 ra$.high

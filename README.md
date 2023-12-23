@@ -50,7 +50,7 @@ There are several ways to download these files.
 
 * **Files**: [GA (armor_0.png)](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/armor_0.jpg)
   , [YA (armor_1.jpg)](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/armor_1.jpg)
-  , [RA (armor_2.png)](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/armor_2.png)
+  , [RA (armor_2.png)](https://github.com/vikpe/qw-streambot-ezquake/blob/main/qw/textures/models/armor_2.jpg)
 * **Source**: [Colorized QRP models and bmodels](https://gfx.quakeworld.nu/details/372/colorized-qrp-models-and-bmodels/)
 * **Changes**: Modified HUE / brightness for more saturated color.
 
